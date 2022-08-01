@@ -3,8 +3,14 @@ package demo;
 public class DemoTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Testing.......");
+	
+	
+	}
+	
+	public static void Demo() {
+		
+		System.out.println("Demo Testing.....");
 	}
 
 }
